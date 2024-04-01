@@ -14,7 +14,7 @@ lazy-object-proxy==1.2.2
 mccabe==0.5.2
 pyasn1==0.1.9
 pycparser==2.14
-pylint==1.6.4
+pylint==2.6.1
 pyOpenSSL==18.0.0
 simplejson==3.8.2
 six==1.10.0
